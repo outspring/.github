@@ -1,2 +1,0 @@
-# .github
-OutSpring organization README
